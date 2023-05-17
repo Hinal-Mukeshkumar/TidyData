@@ -1,0 +1,178 @@
+WHO.region.Country.area		2010	2011	2012	2013	2014	2015	2016	2017	2018	2019	2020	2021
+Cabo Verde	Indigenous cases	47	7*	1*	22*	26*	7*	49*	423*	2*	0*	0*	0*
+	Total P. falciparum	47	7	1	22	26	7	49	423	2	0	0	0
+	Total P. vivax												
+	Total mixed cases												
+	Total other cases												
+	Imported cases		29	35	24	20	20	28	23	18	39	10	20
+	Total introduced cases					0	0	0	0	1	1	0	1
+Equatorial Guinea	Indigenous cases	53,813	22,466	15,169	16,405	20,417	15,142	147,714	15,725	8,962	25,904		
+	Total P. falciparum	53,813	22,466	15,169	16,405	17,452							
+	Total P. vivax												
+	Total mixed cases												
+	Total other cases												
+Eritrea	Indigenous cases	35,982	34,848	21,815	21,317	50,534	28,036	24,251	54,005	46,440	93,878	74,041	43,463
+	Total P. falciparum	9,785	10,263	12,121	12,482	23,787	14,510	20,704	21,849	16,553	75,568	66,600	37,696
+	Total P. vivax	3,989	4,932	9,204	7,361	6,780	4,780	2,999	9,185	6,108	15,790	7,119	5,613
+	Total mixed cases	63	94	346	1,391	166	70	543	429	268	2,340	300	120
+	Total other cases	57	19	0	83	35	12	5	23	26	180	22	34
+Eswatini	Indigenous cases	268	379**	409**	728**	389**	318*	250*	440*	686*	235*	233*	505**
+	Total P. falciparum	87	189	192	268	389	318	250	440	686	235	233	505
+	Total P. vivax												
+	Total mixed cases												
+	Total other cases				1								
+	Imported cases		170	153	234	322	157	67	687	271	337	82	76
+Gambia	Indigenous cases	116,353	268,020	313,469	242,513	168,256	246,348	162,739	78,040	87,448	53,386	75,801	77,287
+	Total P. falciparum	64,108	190,379	271,038	240,792	99,976	240,382	153,685	69,931	87,448	53,386	75,801	77,287
+	Total P. vivax												
+	Total mixed cases												
+	Total other cases												
+Mayotte	Indigenous cases	237***	50***	29***	11**	1*	1*	18*	9*	3*			
+	Total P. falciparum	138	38	21	9	1		12					
+	Total P. vivax	3	2	2									
+	Total mixed cases			4									
+	Total other cases												
+	Imported cases	236	51	47	71	14	10	10	10	44			
+	Total introduced cases							5					
+Namibia	Indigenous cases	556	1,525	194	4,775	15,692	9162*	19510*	54268*	30567*	2376*	12331**	12979*
+	Total P. falciparum	556	335	194	136	15,692	9,162	19,510	54,268	30,567	2,340	12,331	12,979
+	Total P. vivax										6		
+	Total mixed cases												
+	Total other cases												
+	Imported cases						2,888	3,980	11,874	4,021	1,064	1,305	759
+Niger	Indigenous cases	642,774	838,585	2,329,260	2,373,591	3,963,768	2,392,108	4,258,110	2,761,268	3,046,450	3,771,451	4,377,938	4,044,707
+	Total P. falciparum	601,455	757,449	2,185,060	2,306,354	3,828,486	2,267,867	3,961,178	2,638,580	3,046,450	3,748,155	4,154,337	4,044,707
+	Total P. vivax												
+	Total mixed cases	17,123	21,370	22,399	46,068	78,102							
+	Total other cases						4,133	186,989			23,296		
+Senegal	Indigenous cases	330,331	274,119	294,385	366,687	265,624	492,253	349,540	395,706	530652**	354663**	445,313	536,850
+	Total P. falciparum	330,331	274,119	294,385	366,687	265,624	492,253	349,540	395,706	530,652	354,663	445,313	536,850
+	Total P. vivax												
+	Total mixed cases												
+	Total other cases												
+	Imported cases						0	0	0	292	45	0	0
+South Sudan2	Indigenous cases	900,283	112,024	225,371	262,520	71,377	24,371	7,619	1,488,005	98,843	1,903,742	661,922	2,017,227
+	Total P. falciparum		112,024	225,371	262,520	71,377	24,371	7,619	1,488,005	3,242	1,902,505	145,954	1,943,519
+	Total P. vivax											2,205	43,197
+	Total mixed cases												
+	Total other cases											3,851	30,511
+Togo	Indigenous cases	1,019,029	506,764	909,129	965,832	1,524,339	1,610,711	1,746,334	1,756,582	2,002,877	2,406,091		996,364
+	Total P. falciparum	1,018,801	506,741	909,120	965,824	1,524,322	1,610,568	1,746,101	1,756,331	2,002,712	2,402,967		995,655
+	Total P. vivax												
+	Total mixed cases												
+	Total other cases	228	23	9	8	17	143	233	251	165	3,124		709
+Belize	Indigenous cases	150	72*	33*	20*	19*	9*	4*	7*	3*	0*	0*	0*
+	Total P. falciparum									1	0	0	0
+	Total P. vivax	149	72	33	20	19	9	4	5	2	0	0	0
+	Total mixed cases	1							2				0
+	Total other cases												
+	Imported cases		7	4	4	0	4	1	2	4	2	0	0
+Bolivia (Plurinational State of)	Indigenous cases	13,769	7,143	7,415	7,342	7,401	6874*	5542*	4572**	5342*	9338*	12180**	9959*
+	Total P. falciparum	1,165	370	337	959	325	77	4			31	66	165
+	Total P. vivax	12,569	6,756	7,067	6,346	7,060	6,785	5,535	4,572	5,342	9,299	12,107	9,729
+	Total mixed cases	35	17	11	37	16	12	3			5	7	65
+	Total other cases												
+	Imported cases						33	11	15	12	19	7	0
+Dominican Republic	Indigenous cases	2,482	1,616	952	473*	459*	631*	690*	341*	433*	1291*	826*	284*
+	Total P. falciparum	2,480	1,614	950	473	459	631	690	341	433	1,291	826	284
+	Total P. vivax	2	2	2									
+	Total mixed cases												
+	Total other cases												
+	Imported cases				106	37	30	65	57	51	23	3	7
+El Salvador1	Indigenous cases	17*	7*	13*	6*	6*	5*	12*	0*	0*	0*	0*	
+	Total P. falciparum												
+	Total P. vivax	17	7	13	6	6	5	12	0	0	0	0	
+	Total mixed cases												
+	Total other cases												
+	Imported cases	9	8	7	1	2	4	1	3	2	3	0	
+French Guiana	Indigenous cases	1632^	1209^	900^	875	448	374**	217**	554**	546	212*	140**	74*
+	Total P. falciparum	987^	584^	382^	304	136	61	55	62	49	17	3	1
+	Total P. vivax	476^	339^	257^	220	129	194	95	368	496	193	137	72
+	Total mixed cases	561	496	381	348	182	119	67	124		0	0	0
+	Total other cases	5	5	2	0	1				1	2	0	1
+	Imported cases						60	41	43		36	14	37
+Haiti	Indigenous cases	84,153	34,350	27,866	26,543	17,696	17,583	21,430	19,135	8,828	10,687	22,996	9,513
+	Total P. falciparum	84,153	32,969	25,423	20,957	17,696	17,583	21,430	19,135	8,828	10,687	22,996	9,513
+	Total P. vivax	0	0	0	0	0	0	0	0	0	0	0	0
+	Total mixed cases	0	0	0	0	0	0	0	0	0	0	0	0
+	Total other cases	0	0	0	0	0	0	0	0	0	0	0	0
+Peru	Indigenous cases	31,545	25,005	31436^	48719^	65252*	61865*	56623*	55367*	45443*	24324*	15822*	18075*
+	Total P. falciparum	2,291	2,929	3399^	7890^	10,416	12,569	15,319	13,173	9,438	4,724	3,198	3,584
+	Total P. vivax	29,168	21,984	28030^	40829^	54,819	49,287	41,287	42,044	36,005	19,600	12,624	14,490
+	Total mixed cases	83	89	102	213								0
+	Total other cases	3	3	7	11	17	9	17	2				1
+	Imported cases							48	57	176	159	25	65
+Malaysia	Indigenous cases	5194*	3954*	3662*	1028*	596*	242**	266*	85*	0*	0*	0*	0*
+	Total P. falciparum	1,344	973	894	422	177	110	67	18	0	0	0	0
+	Total P. vivax	3,387	1,750	915	385	241	84	178	59	0	0	0	0
+	Total mixed cases	145	120	48	42	33	22	9	1	0	0	0	0
+	Total other cases	0	0	0	0	0	26	12	7	0	0	0	0
+	Imported cases	831	1,142	924	865	766	435	428	423	485	630	177	111
+	Total introduced cases	107	124	35	26	8		16	0	21	96	54	2
+Papua New Guinea	Indigenous cases	93,956	84,060	150,195	316,125	314,036	346,431	534,819	488,878	516,249	646,648	750,254	651,963
+	Total P. falciparum	56,735	59,153	58,747	119,469	120,641	118,452	183,686	163,160	174,818	181,463	189,397	181,927
+	Total P. vivax	13,171	9,654	7,108	7,579	78,846	62,228	95,328	113,561	138,006	163,237	186,981	172,964
+	Total mixed cases	4,089	1,164		1,279	79,574	115,157	197,711	200,186	201,658	299,869	372,257	296,710
+	Total other cases	1,990	632	0	0	2,125	1,950	1,772	1,433	1,767	2,079	1,619	362
+Solomon Islands	Indigenous cases	39,704	26,657	24,383	25,609	18,404	23,998	54,432	52,519	59,191	72,767	77,637	84,139
+	Total P. falciparum	22,892	14,454	14,748	13,194	9,835	10,478	16,607	15,400	15,771	15,595	14,753	22,057
+	Total P. vivax	12,281	8,665	9,339	11,628	7,845	12,150	33,060	30,169	35,072	47,164	52,039	57,095
+	Total mixed cases	200	83	232	446	724	1,370	4,719	6,917	8,341	9,979	10,813	4,943
+	Total other cases	0	0	0	0	0	0	46	33	7	27	32	44
+Vanuatu	Indigenous cases	9,817	6,179	4,532	2,883	1,314	571	2243****	1227**	632**	567**	493**?	312**
+	Total P. falciparum	1,545	770	1,257	1,039	279	150	186	273	42	36	38	0
+	Total P. vivax	2,265	1,224	1,680	1,342	703	273	1,682	798	590	531	469	312
+	Total mixed cases	193	81	470	0	0	0	0	0	0	0	0	0
+	Total other cases	10	2	0	0	0	0	0	0	0	0	0	0
+	Imported cases							0	1	12	9	14	10
+	Total introduced cases							9	0	0	0	0	0
+Iran (Islamic Republic of)	Indigenous cases	1847*	1632*^	756*^	480*^	358*^	167*	81*	57*	0*	0*	0*	0*
+	Total P. falciparum	166	152^	44^	72^	21^	8	0	2	0	0	0	0
+	Total P. vivax	1,656	1502^	711^	426^	351^	157	79	55	0	0	0	0
+	Total mixed cases	25	56	32	22	4	1	2		0	0	0	0
+	Total other cases												
+	Imported cases	1,184	1,529	842	853	867	632	611	868	602	1,107	878	821
+	Total introduced cases		78	12	26	7	24	8	13	20	85	171	178
+Pakistan	Indigenous cases	240,591	334,589	290781^	274,648	264,867	203,859	329,005	369,817	374,510	413,533	371,828	399,097
+	Total P. falciparum	73,857	73,925	95095^	46,974	33,340	28,311	43,821	54,407	55,639	87,169	74,899	94,543
+	Total P. vivax	143,136	205,879	228215^	215,655	221,816	167,460	260,477	300,623	314,572	323,355	293,077	301,169
+	Total mixed cases			2,901	12,019	9,711	8,088	24,707	14,787	4,299	3,009	3,852	3,385
+	Total other cases												
+Saudi Arabia	Indigenous cases	29*	69*	82*	34*	30*	83*	272*	177*	61*	38*	83*	0*
+	Total P. falciparum	29	69	82	34	30	83	270	172	57	38	83	0
+	Total P. vivax							2	5	4			0
+	Total mixed cases												
+	Total other cases												
+	Imported cases	1,912	2,719	3,324	2,479	2,254	2,537	5,110	2,974	2,517	2,029	3,453	2,470
+	Total introduced cases	0	0	0	0	21	0	0	0	133	85	122	146
+Sudan	Indigenous cases	720,557	506,806	526,931	592,383	1,068,506	586,827	566,015	800,116	1,648,683	1,752,011	1,698,394	1,647,745
+	Total P. falciparum							333,009	580,145	1,286,915	1,363,507	1,272,738	1,182,363
+	Total P. vivax							82,175	58,335	143,314	194,904	170,202	175,590
+	Total mixed cases							32,557	82,399	187,270	193,600	143,066	160,222
+	Total other cases												
+Kyrgyzstan1	Indigenous cases	3*	0*	0*	0*	0*	0*	0*	0*	0*	0*	0*	NA
+	Total P. falciparum		0	0	0	0	0	0	0	0	0	0	NA
+	Total P. vivax	3	0	0	0	0	0	0	0	0	0	0	NA
+	Total mixed cases	0	0	0	0	0	0	0	0	0	0	0	NA
+	Total other cases	0	0	0	0	0	0	0	0	0	0	0	NA
+	Imported cases	3	5	3	4	0	1	6	2	0	1	0	NA
+Tajikistan	Indigenous cases	112*	78*	28*	4*	2*	0*	0*	0*	0*	0*	0*	NA
+	Total P. falciparum	1	5				0	0	0	0	0	0	NA
+	Total P. vivax	111	73				0	0	0	0	0	0	NA
+	Total mixed cases						0	0	0	0	0	0	NA
+	Total other cases						0	0	0	0	0	0	NA
+	Imported cases	4	22	11	10	5	4	1	3		3		NA
+	Total introduced cases	0	0	15	11	0	0	0	0				NA
+Bhutan	Indigenous cases	436	194	82*	15*	19*	34*	15*	11*	6*	2*	22*	9*
+	Total P. falciparum	140	87	33	6	11	13	1	0	1	0	0	1
+	Total P. vivax	261	92	47	9	8	21	13	11	5	2	22	7
+	Total mixed cases	35	15				0	1	0	0	0	0	1
+	Total other cases												
+	Imported cases			0	23	34	70	56	38	34	30	9	13
+	Total introduced cases			0		0	0	3	13	14	10	23	0
+Thailand	Indigenous cases	32,480	24,897	46,895	41,602	41,218	14265**	12076**	7416**	5110**	4065**	3123**	2426**
+	Total P. falciparum	9,401	5,710	11,553	14,449	13,743	3,301	1,774	846	447	391	155	53
+	Total P. vivax	13,401	8,608	17,506	15,573	20,513	4,655	5,765	4,802	3,575	2,752	2,892	2,313
+	Total mixed cases	147	147		196	588	122	109	36	34	25	16	9
+	Total other cases	20	13		3,084	3,077	12	1,244	10	21	30	58	42
+	Imported cases						9,890	5,724	4,020	1,618	1,342	798	800
